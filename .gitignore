@@ -1,0 +1,16 @@
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated map
+route_map.html
+
+# Local secrets
+.env
+
+# Operating-system files
+Thumbs.db
+.DS_Store
